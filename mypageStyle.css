@@ -1,0 +1,125 @@
+body {
+	background-color: rgba(107, 107, 107, 0.849);
+  }
+
+
+p{
+	font: "Comic Sans MS", cursive, sans-serif		;
+	color: white;
+	font-size: 30px;
+
+	
+
+}
+
+
+  h3 { 
+	font: italic normal 1.4em georgia, sans-serif;
+	letter-spacing: 1px; 
+	margin-bottom: 0; 
+	color:rgb(219, 219, 219);
+	font-size: 40px;
+
+	}
+
+
+div{
+	padding: 10px;
+	border: 3px solid white;
+
+
+}	
+
+	.bodyhead{
+		position: relative;
+
+		background-color: rgb(0, 154, 165);
+
+		margin-top: 10%;
+		margin-bottom: 5%;
+		margin-right: 20%;
+		margin-left: 20%;
+
+
+	  }
+	  .firstBox{
+		position: relative;
+
+		background-color: rgb(128, 128, 128);
+
+
+		
+		margin-bottom: 5%;
+		margin-right: 0%;
+		margin-left: 10%;
+
+	  }
+
+
+	  .scondbox{
+		position: relative;
+
+		background-color: orange;
+
+		
+		margin-bottom: 5%;
+		margin-right: 0%;
+		margin-left: 10%;
+
+	  }
+
+
+
+
+
+	.firstDiv{
+		position: relative;
+
+		background-color: rgb(255, 136, 0);
+		border: 3px solid white;
+
+		
+		margin-bottom: 5%;
+
+		margin-right: 0%;
+		margin-left: 10%;
+
+	  }
+	
+	
+	  .SecondDiv{
+		background-color: rgb(0, 172, 0);
+		position: relative;
+		border: 3px solid white;
+
+		margin-bottom: 5%;
+
+		margin-right: 10%;
+		margin-left: 0%;
+	  }
+	
+	
+	  .thirdDiv{
+		background-color: blue;
+		position: relative;
+		border: 3px solid white;
+	
+		margin-bottom: 5%;
+
+		margin-right: 0%;
+		margin-left: 10%;
+	
+	  }
+
+
+	  .fourthDiv{
+		background-color: red;
+		position: relative;
+		border: 3px solid white;
+	
+		margin-bottom: 5%;
+
+		margin-right: 10%;
+		margin-left: 0%;
+ 
+	  }
